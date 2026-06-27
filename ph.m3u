@@ -50,7 +50,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC (1080p)
 {{CDN}}/{{ANC}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="News" group-id="news",Teleradyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Free TV" group-id="freetv",Teleradyo
 {{CDN}}/{{TELERADYO}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="Free TV" group-id="freetv",DZRH News (1080p)
