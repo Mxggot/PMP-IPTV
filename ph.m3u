@@ -8,10 +8,10 @@
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" group-title="Free TV" group-id="freetv",TV5
 {{CDN}}/{{TV5}}
 
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" group-title="Free TV" group-id="freetv",A2Z
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Free TV" group-id="freetv",A2Z
 {{CDN}}/{{A2Z}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200552/alltv-logo-300x300.png" group-title="Free TV" group-id="freetv",ALLTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
 {{CDN}}/{{ALLTV}}
 
 #EXTINF:-1 tvg-id="PTV4.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Free TV" group-id="freetv",PTV
@@ -20,37 +20,52 @@
 #EXTINF:-1 tvg-id="IBC13.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
 {{CDN}}/{{IBC13}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2021/02/23133023/gtv-logo-300x300.png" group-title="Free TV" group-id="freetv",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="Free TV" group-id="freetv",GTV
 {{CDN}}/{{GTV}}
 
-#EXTINF:-1 tvg-id="RPTV.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26201731/rptv-logo-300x300.png" group-title="Free TV" group-id="freetv",RPTV
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Free TV" group-id="freetv",RPTV
 {{CDN}}/{{RPTV}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Free TV" group-id="freetv",UNTV
 {{CDN}}/{{UNTV}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/18214226/net25-logo-300x300.png" group-title="Free TV" group-id="freetv",NET 25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dhvihdA.png" group-title="Free TV" group-id="freetv",Net 25
 {{CDN}}/{{NET25}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18092318/anc-logo-300x300.png" group-title="News" group-id="news",ANC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="Free TV" group-id="freetv",Aliw
+{{CDN}}/{{ALIW}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZElxkCs.png" group-title="International" group-id="international",Star Channel 1
+{{CDN}}/{{STARCHANNEL1}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Pg2jrLe.png" group-title="Music" group-id="music",Rock of Manila TV
+{{CDN}}/{{ROCKMNL}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="International" group-id="international",Phoenix Chinese Channel
+{{CDN}}/{{PHOENIX}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-epg.org/images/LQo_8kLS5Q_vtpBh8lar4Zho9eP5Aux6ng3HrTPWnccMiaYnq2BBJJbaPldumVcs-0OolYO2BeIu0XLL1gN5dOvhJ-wKap_DasdPi9oC_lzZ" group-title="News" group-id="news",CNN International (1080p)
+{{CDN}}/{{CNN}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC (1080p)
 {{CDN}}/{{ANC}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="News" group-id="news",Teleradyo
 {{CDN}}/{{TELERADYO}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="News" group-id="news",DZRH TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="Free TV" group-id="freetv",DZRH News (1080p)
 {{CDN}}/{{DZRH}}
 
 #EXTINF:-1 tvg-id="Bloomberg.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/Sn3BzK0ePkKJDVZy2KTuJ7RO7gHfiO8q8OlSc-KyTdSm7PzrKHG6V7MJ29oncFPwLgkxcZ21AtXEv7j32pJHZfjLuiuJ50c8GQXgMFP_aMQMJdmWJxPe" group-title="News" group-id="news",Bloomberg
 {{CDN}}/{{BLOOMBERG}}
 
-#EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-name="" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="News" group-id="news",Bilyonaryo News Channel (1080p)
+#EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-name="" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="Free TV" group-id="freetv",Bilyonaryo News Channel (1080p)
 {{CDN}}/{{BILYONARYO}}
 
-#EXTINF:-1 tvg-id="AbantaTV.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News" group-id="news",Abante TV (1080p)
+#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Abante_masthead.svg.png/revision/latest/scale-to-width-down/300?cb=20241201092744" group-title="News" group-id="news",Abante TV (1080p)
 {{CDN}}/{{ABANTE}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="News" group-id="news",MindaNow (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="Lifestyle" group-id="lifestyle",MindaNow (720p)
 {{CDN}}/{{MINDANOW}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-epg.org/images/V8M-FlqQ_KCnA3lmXFD7qhp5VLeS5B0MyoGrgAsG0naNda1ccG-mP3Zku8fQk22mabiZIytXNHSoRt_JewCGMxtS9ZIL2uk7UKIXwj6l8oflGzfaZFWR" group-title="News" group-id="news",Al Jazeera
@@ -71,8 +86,8 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/56wnsVNkVmEo80LyXRTuOqjIfsv89v_3wGQ8DkyECjzNu5DC3-369clqJw307MyUJ5iFAoMvINhJm2hpi27sYnkLDzlFM9B4WUFsssofQeD2UsxrGd3hK5jQzQ" group-title="News" group-id="news",NHK World Japan (1080p)
 {{CDN}}/{{NHKWORLD}}
 
-#EXTINF:-1 tvg-id="NHKBS1.ph" tvg-name="" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="News" group-id="news",NHK BS (1080p)
-{{CDN}}/{{NHKBS}}
+#EXTINF:-1 tvg-id="NHKBS1.ph" tvg-name="" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="International" group-id="international",NHK BS1 (1080p)
+{{CDN}}/{{NHKBS1}}
 
 #EXTINF:-1 tvg-id="ABCAustralia.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/uj27SLezzuDWFiuePyyeb7NeiXBfMDAgbYn-d9_DqwTPRW4-FPm15-FgdG7PmTC8wZWZQKKBWfRMnfrG_ZrUkRRAFjIj4YYx2Pm1h185OxP8eF6GwHW8aN_k" group-title="News" group-id="news",ABC Australia
 {{CDN}}/{{ABCAUSTRALIA}}
@@ -80,7 +95,7 @@
 #EXTINF:-1 tvg-id="CGTN.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/ftJvcH_uAcQWvptmlNvbTdujK62Gw-GcEsaBGd3reJh2Y2icAqNwM-fhvuvCUR1ajB6hF7NPJ6fdGBq1mnull9cqBZ3XuZjrYWYe044zgJIqeg" group-title="News" group-id="news",CGTN
 {{CDN}}/{{CGTN}}
 
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="News" group-id="news",Arirang
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="International" group-id="international",Arirang
 {{CDN}}/{{ARIRANG}}
 
 #EXTINF:-1 tvg-id="KBSWorld.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/y-zS3s6rBXFNq_jKvL7N_nL-X_0fBi-hXm4DAgPW_uEYFua_AgjUZkWVI11nxlUHQa0kDkVx7mT7Rtu4uzWgPCaHnvoCZoaG4aQQ7PgJCkYna0-z7GE" group-title="News" group-id="news",KBS World
@@ -89,19 +104,25 @@
 #EXTINF:-1 tvg-id="CCTV4.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8W-QaXFdJsddzWWekJ2pEFkpJmE8rIr3bBC7mr3x3l9g_9XEAmN8TmlcuBUvXcBoKFKpAc_HhcQlzQmOCS4bXVr9aDueZS0dvqNogaD-L26TzGg" group-title="News" group-id="news",CCTV 4
 {{CDN}}/{{CCTV4}}
 
-#EXTINF:-1 tvg-id="TV5Monde.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="News" group-id="news",TV5Monde
+#EXTINF:-1 tvg-id="TV5Monde.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="International" group-id="international",TV5Monde
 {{CDN}}/{{TV5MONDE}}
 
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200553/onesports-logo-300x300.png" group-title="Sports" group-id="sports",One Sports
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Free TV" group-id="freetv",One Sports
 {{CDN}}/{{ONESPORTS}}
 
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" group-id="sports",Premier Sports (1080p)
 {{CDN}}/{{PREMIERSPORTS}}
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports" group-id="sports",Premier Football (1080p)
+{{CDN}}/{{PREMIERFOOTBALL}}
+
 #EXTINF:-1 tvg-id="TAPsports.ph" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
 {{CDN}}/{{TAPSPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="Movies" group-id="movies",Cinema One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sports
+{{CDN}}/{{EDGESPORTS}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
 {{CDN}}/{{CINEMAONE}}
 
 #EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-name="" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="Movies" group-id="movies",PBO
@@ -125,19 +146,22 @@
 #EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-name="" tvg-logo="https://i.imgur.com/45Y6iXq.png" group-title="Movies" group-id="movies",Tap Action Flix
 {{CDN}}/{{TAPACTIONFLIX}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Movies" group-id="movies",Solar Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Free TV" group-id="freetv",SolarFlix
 {{CDN}}/{{SOLARFLIX}}
 
-#EXTINF:-1 tvg-id="AXN.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18093157/axn-logo-300x300.png" group-title="Entertainment" group-id="entertainment",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies" group-id="movies",Cinemo!
+{{CDN}}/{{CINEMO}}
+
+#EXTINF:-1 tvg-id="AXN.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Entertainment" group-id="entertainment",AXN
 {{CDN}}/{{AXN}}
 
 #EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
 {{CDN}}/{{ROCKENTERTAINMENT}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Entertainment" group-id="entertainment",MYX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Music" group-id="music",MYX
 {{CDN}}/{{MYX}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18112452/jeepney-tv-logo-300x300.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
 #EXTINF:-1 tvg-id="TAPTV.ph" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
@@ -146,19 +170,19 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="Entertainment" group-id="entertainment",Tap Edge
 {{CDN}}/{{TAPEDGE}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Entertainment" group-id="entertainment",Vegas Life TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Lifestyle" group-id="lifestyle",Vegas Life TV (1080p)
 {{CDN}}/{{VEGASLIFETV}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Entertainment" group-id="entertainment",FilAmTV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Lifestyle" group-id="lifestyle",FilAmTV (1080p)
 {{CDN}}/{{FILAMTV}}
 
-#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Education" group-id="education",Knowledge Channel
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Free TV" group-id="freetv",Knowledge Channel
 {{CDN}}/{{KNOWLEDGE}}
 
-#EXTINF:-1 tvg-id="NickJr.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8Ljsj9Gpq6cwzrCKrskp8lwZIWP2APf9UikmBt_U7R1PQhp9bMHHvdY1EtYluQKb6prZvUjHwhVwEuvaFhlvpQqStHOCbMrmmml3_YApLVWFSYPW" group-title="Education" group-id="education",Nick Jr. (1080p)
+#EXTINF:-1 tvg-id="NickJr.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8Ljsj9Gpq6cwzrCKrskp8lwZIWP2APf9UikmBt_U7R1PQhp9bMHHvdY1EtYluQKb6prZvUjHwhVwEuvaFhlvpQqStHOCbMrmmml3_YApLVWFSYPW" group-title="Kids" group-id="kids",Nick Jr. (1080p)
 {{CDN}}/{{NICKJR}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Religious" group-id="religious",INC TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
 {{CDN}}/{{INCTV}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious" group-id="religious",EWTN
@@ -169,3 +193,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bsjhl6L.png" group-title="Religious" group-id="religious",Light TV
 {{CDN}}/{{LIGHTTV}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-epg.org/images/4e732ced3463d06de0ca9a15b6153677/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",Trinity Broadcasting Network
+{{CDN}}/{{TBN}}
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-epg.org/images/4e732ced3463d06de0ca9a15b6153677/KwEzlDW4f1kQZficVytPL2r8OBiN5DgOwNRwuBexpzZvNTHifE0Xn6LsK1EZen1w48Cbc3fKpIhddKYmaZr2T8gh7RBGR6Yp-n20dH89S7Ks" group-title="International" group-id="international",TVE
+{{CDN}}/{{TVE}}
