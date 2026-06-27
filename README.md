@@ -15,7 +15,7 @@ https://mxggot.github.io/PMP-IPTV/ph.m3u
 | Free TV | GMA 7, TV5, A2Z, ALLTV, PTV, IBC 13, GTV, RPTV, UNTV, NET 25 |
 | News | ANC, Teleradyo, DZRH TV, Bloomberg, Bilyonaryo, Abante TV, MindaNow, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World, NHK BS, ABC Australia, CGTN, Arirang, KBS World, CCTV 4, TV5Monde |
 | Sports | One Sports, Premier Sports, Tap Sports |
-| Movies | Cinema One, PBO, TMC, Viva Cinema, CCM, Thrill, Tap Movies, Tap Action Flix |
+| Movies | Cinema One, PBO, TMC, Viva Cinema, CCM, Thrill, Tap Movies, Tap Action Flix, Solar Flix |
 | Entertainment | AXN, Rock Entertainment, MYX, Jeepney TV, Tap TV, Tap Edge, Vegas Life TV, FilAmTV |
 | Education | Knowledge Channel, Nick Jr. |
 | Religious | INC TV, EWTN, TV Maria, Light TV |
