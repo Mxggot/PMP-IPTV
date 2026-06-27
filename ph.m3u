@@ -2,37 +2,37 @@
 
 ## majority of the streams/channels are broadcasted in 480p, the labeled ones are obviously an exception.
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="Free TV" group-id="freetv",GMA 7
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17212959/gma7-logo-1-300x300.png" group-title="Free TV" group-id="freetv",GMA
 {{CDN}}/{{GMA7}}
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-logo="https://i.imgur.com/g3Q1qLK.png" group-title="Free TV" group-id="freetv",TV5
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" group-title="Free TV" group-id="freetv",TV5
 {{CDN}}/{{TV5}}
 
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Free TV" group-id="freetv",A2Z
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" group-title="Free TV" group-id="freetv",A2Z
 {{CDN}}/{{A2Z}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200552/alltv-logo-300x300.png" group-title="Free TV" group-id="freetv",ALLTV
 {{CDN}}/{{ALLTV}}
 
-#EXTINF:-1 tvg-id="PTV4.ph" tvg-name="" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Free TV" group-id="freetv",PTV
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Free TV" group-id="freetv",PTV
 {{CDN}}/{{PTV}}
 
-#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/khHu-mPnOFPl7DkGcdAmJVbWWiGoad19vDcMXfH-z2kDIHzvYQeYAHvlIdb67bYpOmp3l17137g1EtECGVfwvnqWjn1xYX3ZDf42tQ1uKYHmAik" group-title="Free TV" group-id="freetv",IBC 13
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
 {{CDN}}/{{IBC13}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="Free TV" group-id="freetv",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2021/02/23133023/gtv-logo-300x300.png" group-title="Free TV" group-id="freetv",GTV
 {{CDN}}/{{GTV}}
 
-#EXTINF:-1 tvg-id="RPTV.ph" tvg-name="" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="Free TV" group-id="freetv",RPTV
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26201731/rptv-logo-300x300.png" group-title="Free TV" group-id="freetv",RPTV
 {{CDN}}/{{RPTV}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Free TV" group-id="freetv",UNTV
 {{CDN}}/{{UNTV}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dhvihdA.png" group-title="Free TV" group-id="freetv",NET 25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/18214226/net25-logo-300x300.png" group-title="Free TV" group-id="freetv",NET 25
 {{CDN}}/{{NET25}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18092318/anc-logo-300x300.png" group-title="News" group-id="news",ANC
 {{CDN}}/{{ANC}}
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="News" group-id="news",Teleradyo
@@ -92,7 +92,7 @@
 #EXTINF:-1 tvg-id="TV5Monde.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="News" group-id="news",TV5Monde
 {{CDN}}/{{TV5MONDE}}
 
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Sports" group-id="sports",One Sports
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200553/onesports-logo-300x300.png" group-title="Sports" group-id="sports",One Sports
 {{CDN}}/{{ONESPORTS}}
 
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" group-id="sports",Premier Sports (1080p)
@@ -101,7 +101,7 @@
 #EXTINF:-1 tvg-id="TAPsports.ph" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
 {{CDN}}/{{TAPSPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="Movies" group-id="movies",Cinema One
 {{CDN}}/{{CINEMAONE}}
 
 #EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-name="" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="Movies" group-id="movies",PBO
@@ -125,16 +125,19 @@
 #EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-name="" tvg-logo="https://i.imgur.com/45Y6iXq.png" group-title="Movies" group-id="movies",Tap Action Flix
 {{CDN}}/{{TAPACTIONFLIX}}
 
-#EXTINF:-1 tvg-id="AXN.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Entertainment" group-id="entertainment",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Movies" group-id="movies",Solar Flix
+{{CDN}}/{{SOLARFLIX}}
+
+#EXTINF:-1 tvg-id="AXN.ph" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18093157/axn-logo-300x300.png" group-title="Entertainment" group-id="entertainment",AXN
 {{CDN}}/{{AXN}}
 
 #EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
 {{CDN}}/{{ROCKENTERTAINMENT}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Entertainment" group-id="entertainment",MYX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Entertainment" group-id="entertainment",MYX
 {{CDN}}/{{MYX}}
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18112452/jeepney-tv-logo-300x300.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
 #EXTINF:-1 tvg-id="TAPTV.ph" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
