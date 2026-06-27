@@ -12,13 +12,16 @@ https://mxggot.github.io/PMP-IPTV/ph.m3u
 ## Channels (for now)
 | Group | Channels |
 |---|---|
-| Free TV | GMA, TV5, A2Z, ALLTV, PTV, IBC 13, GTV, RPTV, UNTV, NET 25 |
-| News | ANC, Teleradyo, DZRH TV, Bloomberg, Bilyonaryo, Abante TV, MindaNow, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World, NHK BS, ABC Australia, CGTN, Arirang, KBS World, CCTV 4, TV5Monde |
-| Sports | One Sports, Premier Sports, Tap Sports |
-| Movies | Cinema One, PBO, TMC, Viva Cinema, CCM, Thrill, Tap Movies, Tap Action Flix, Solar Flix |
-| Entertainment | AXN, Rock Entertainment, MYX, Jeepney TV, Tap TV, Tap Edge, Vegas Life TV, FilAmTV |
-| Education | Knowledge Channel, Nick Jr. |
-| Religious | INC TV, EWTN, TV Maria, Light TV |
+| Free TV | GMA, TV5, A2Z, ALLTV, PTV, IBC 13, GTV, RPTV, UNTV, Net 25, Aliw, One Sports, DZRH News, Bilyonaryo, SolarFlix, Knowledge Channel, INC TV |
+| News | CNN International, ANC, Teleradyo, Bloomberg, Abante TV, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World Japan, ABC Australia, CGTN, KBS World, CCTV 4 |
+| Sports | Premier Sports, Premier Football, Tap Sports, Edge Sports |
+| Movies | Cinema One, PBO, TMC, Viva Cinema, Celestial Classic Movies, Thrill, Tap Movies, Tap Action Flix, Cinemo! |
+| Entertainment | AXN, Rock Entertainment, Jeepney TV, Tap TV, Tap Edge |
+| Music | Rock of Manila TV, MYX |
+| Lifestyle | MindaNow, Vegas Life TV, FilAmTV |
+| Kids | Nick Jr. |
+| Religious | EWTN, TV Maria, Light TV, Trinity Broadcasting Network |
+| International | Star Channel 1, Phoenix Chinese Channel, NHK BS1, Arirang, TV5Monde, TVE |
 
 ## Note(s)
 - Most channels are in **480p**. Channels labeled 720p/1080p are exceptions.
