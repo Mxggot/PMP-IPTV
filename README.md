@@ -1,4 +1,6 @@
 # PMP-IPTV
+#### `P`inaka `M`alupit na `P`inoy IPTV playlist
+
 Local Pinoy IPTV playlist for Filipino fellas out there.
 
 ## How to use
