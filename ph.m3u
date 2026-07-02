@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
 {{CDN}}/{{ALLTV}}
 
-#EXTINF:-1 tvg-id="PTV4.ph" tvg-chno="14" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Free TV" group-id="freetv",PTV
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-chno="14" tvg-name="" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Free TV" group-id="freetv",PTV
 {{CDN}}/{{PTV}}
 
 #EXTINF:-1 tvg-id="IBC13.ph" tvg-chno="13" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
@@ -143,7 +143,7 @@
 #EXTINF:-1 tvg-id="TAPMovies.ph" tvg-chno="98" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="Movies" group-id="movies",Tap Movies
 {{CDN}}/{{TAPMOVIES}}
 
-#EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-chno="99" tvg-name="" tvg-logo="https://i.imgur.com/45Y6iXq.png" group-title="Movies" group-id="movies",Tap Action Flix
+#EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-chno="99" tvg-name="" tvg-logo="https://tapdmv.com/content/images/size/w1000/2024/10/TAP-ACTION-FLIX-ORANGE-HIGH-RES.png" group-title="Movies" group-id="movies",Tap Action Flix
 {{CDN}}/{{TAPACTIONFLIX}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Free TV" group-id="freetv",SolarFlix
@@ -161,7 +161,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Music" group-id="music",MYX
 {{CDN}}/{{MYX}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://img.mytfc.com/wp-content/uploads/2025/09/08211049/channels-jeepney-tv_footer_400pxh.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
 #EXTINF:-1 tvg-id="TAPTV.ph" tvg-chno="124" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
