@@ -212,7 +212,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="73" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Al-Saudia_TV_Logo_2018.png/250px-Al-Saudia_TV_Logo_2018.png" group-title="News" group-id="news",Saudi TV
 {{CDN}}/{{SAUDI}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News
+#EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News Channel
 {{CDN}}/{{SMNINEWS}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
