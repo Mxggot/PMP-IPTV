@@ -13,7 +13,7 @@ https://mxggot.github.io/PMP-IPTV/ph.m3u
 | Group | Channels |
 |---|---|
 | Free TV | GMA, TV5, A2Z, ALLTV, PTV, IBC 13, GTV, RPTV, UNTV, Net 25, Aliw, Teleradyo, One Sports, DZRH News, Bilyonaryo, SolarFlix, Knowledge Channel, INC TV, Kapamilya Channel, RJTV, Solar Sports |
-| News | CNN International, ANC, Bloomberg, Abante TV, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World Japan, ABC Australia, CGTN, KBS World, CCTV 4, Saudi TV, SMNI News |
+| News | CNN International, ANC, Bloomberg, Abante TV, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World Japan, ABC Australia, CGTN, KBS World, CCTV 4, Saudi TV, SMNI News Channel |
 | Sports | Premier Sports, Premier Football, Tap Sports, Edge Sports |
 | Movies | Cinema One, PBO, TMC, Viva Cinema, Celestial Classic Movies, Thrill, Tap Movies, Tap Action Flix, Cinemo!, Lotus Macau |
 | Entertainment | AXN, Rock Entertainment, Jeepney TV, Tap TV, Tap Edge |
