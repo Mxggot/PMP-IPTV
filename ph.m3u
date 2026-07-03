@@ -53,13 +53,13 @@
 #EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-chno="32" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Free TV" group-id="freetv",Knowledge Channel
 {{CDN}}/{{KNOWLEDGE}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-name="" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Free TV" group-id="freetv",UNTV
+#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/250px-UNTV-Logo-2016.svg.png" group-title="Free TV" group-id="freetv",UNTV
 {{CDN}}/{{UNTV}}
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-chno="41" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Free TV" group-id="freetv",One Sports
 {{CDN}}/{{ONESPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0d/DZMM_TeleRadyo_Logo_2025.png/revision/latest/scale-to-width-down/300" group-title="Free TV" group-id="freetv",Teleradyo
+#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/250px-DZMM_TeleRadyo.svg.png" group-title="Free TV" group-id="freetv",Teleradyo
 {{CDN}}/{{TELERADYO}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="48" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
@@ -128,7 +128,7 @@
 #EXTINF:-1 tvg-id="CCM.ph" tvg-chno="105" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" group-id="movies",Celestial Classic Movies
 {{CDN}}/{{CCM}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://cdn.imgbin.com/14/12/19/imgbin-jeepney-tv-philippines-the-filipino-channel-television-abs-cbn-jeepney-PnY1SPLjgVrNdfqMxZv3Lvn2Z.jpg" group-title="Entertainment" group-id="entertainment",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/250px-Jeepney_TV_Logo_2015.svg.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="Entertainment" group-id="entertainment",Tap Edge
@@ -176,7 +176,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News Channel
 {{CDN}}/{{SMNINEWS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious" group-id="religious",EWTN
+#EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/250px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" group-id="religious",EWTN
 {{CDN}}/{{EWTN}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="227" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",TBN Asia
