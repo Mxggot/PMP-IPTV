@@ -2,143 +2,116 @@
 
 ## majority of the streams/channels are broadcasted in 480p, the labeled ones are obviously an exception.
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-chno="7" tvg-name="" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="Free TV" group-id="freetv",GMA
-{{CDN}}/{{GMA7}}
+#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
+{{CDN}}/{{ALLTV}}
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-chno="5" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" group-title="Free TV" group-id="freetv",TV5
 {{CDN}}/{{TV5}}
 
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-chno="11" tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Free TV" group-id="freetv",A2Z
-{{CDN}}/{{A2Z}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
-{{CDN}}/{{ALLTV}}
-
-#EXTINF:-1 tvg-id="PTV4.ph" tvg-chno="14" tvg-name="" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Free TV" group-id="freetv",PTV
-{{CDN}}/{{PTV}}
-
-#EXTINF:-1 tvg-id="IBC13.ph" tvg-chno="13" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
-{{CDN}}/{{IBC13}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="27" tvg-name="" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="Free TV" group-id="freetv",GTV
-{{CDN}}/{{GTV}}
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-chno="7" tvg-name="" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="Free TV" group-id="freetv",GMA
+{{CDN}}/{{GMA7}}
 
 #EXTINF:-1 tvg-id="RPTV.ph" tvg-chno="9" tvg-name="" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="Free TV" group-id="freetv",RPTV
 {{CDN}}/{{RPTV}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-name="" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Free TV" group-id="freetv",UNTV
-{{CDN}}/{{UNTV}}
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-chno="11" tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Free TV" group-id="freetv",A2Z
+{{CDN}}/{{A2Z}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="25" tvg-name="" tvg-logo="https://i.imgur.com/dhvihdA.png" group-title="Free TV" group-id="freetv",Net 25
-{{CDN}}/{{NET25}}
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-chno="13" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
+{{CDN}}/{{IBC13}}
+
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-chno="14" tvg-name="" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Free TV" group-id="freetv",PTV
+{{CDN}}/{{PTV}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="15" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Free TV" group-id="freetv",Kapamilya Channel (1080p)
+{{CDN}}/{{KAPAMILYA}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
+{{CDN}}/{{SOLARSPORTS}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Free TV" group-id="freetv",SolarFlix
+{{CDN}}/{{SOLARFLIX}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="23" tvg-name="" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="Free TV" group-id="freetv",Aliw
 {{CDN}}/{{ALIW}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="246" tvg-name="" tvg-logo="https://i.imgur.com/ZElxkCs.png" group-title="International" group-id="international",Star Channel 1
-{{CDN}}/{{STARCHANNEL1}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="" tvg-logo="https://i.imgur.com/Pg2jrLe.png" group-title="Music" group-id="music",Rock of Manila TV
-{{CDN}}/{{ROCKMNL}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="243" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="International" group-id="international",Phoenix Chinese Channel
-{{CDN}}/{{PHOENIX}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="62" tvg-name="" tvg-logo="https://iptv-epg.org/images/LQo_8kLS5Q_vtpBh8lar4Zho9eP5Aux6ng3HrTPWnccMiaYnq2BBJJbaPldumVcs-0OolYO2BeIu0XLL1gN5dOvhJ-wKap_DasdPi9oC_lzZ" group-title="News" group-id="news",CNN (1080p)
-{{CDN}}/{{CNN}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="61" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC (1080p)
-{{CDN}}/{{ANC}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Free TV" group-id="freetv",Teleradyo
-{{CDN}}/{{TELERADYO}}
+#EXTINF:-1 tvg-id="" tvg-chno="25" tvg-name="" tvg-logo="https://i.imgur.com/dhvihdA.png" group-title="Free TV" group-id="freetv",Net 25
+{{CDN}}/{{NET25}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="26" tvg-name="" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="Free TV" group-id="freetv",DZRH News (1080p)
 {{CDN}}/{{DZRH}}
 
-#EXTINF:-1 tvg-id="Bloomberg.ph" tvg-chno="900" tvg-name="" tvg-logo="https://iptv-epg.org/images/Sn3BzK0ePkKJDVZy2KTuJ7RO7gHfiO8q8OlSc-KyTdSm7PzrKHG6V7MJ29oncFPwLgkxcZ21AtXEv7j32pJHZfjLuiuJ50c8GQXgMFP_aMQMJdmWJxPe" group-title="News" group-id="news",Bloomberg
-{{CDN}}/{{BLOOMBERG}}
+#EXTINF:-1 tvg-id="" tvg-chno="27" tvg-name="" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="Free TV" group-id="freetv",GTV
+{{CDN}}/{{GTV}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="29" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/DZRJ-DTV_2019_logo.png/250px-DZRJ-DTV_2019_logo.png" group-title="Free TV" group-id="freetv",RJTV
+{{CDN}}/{{RJTV29}}
 
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-chno="31" tvg-name="" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="Free TV" group-id="freetv",Bilyonaryo News Channel (1080p)
 {{CDN}}/{{BILYONARYO}}
 
-#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-chno="901" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Abante_masthead.svg.png/revision/latest/scale-to-width-down/300?cb=20241201092744" group-title="News" group-id="news",Abante TV (1080p)
-{{CDN}}/{{ABANTE}}
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-chno="32" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Free TV" group-id="freetv",Knowledge Channel
+{{CDN}}/{{KNOWLEDGE}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="186" tvg-name="" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="Lifestyle" group-id="lifestyle",MindaNow (720p)
-{{CDN}}/{{MINDANOW}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="67" tvg-name="" tvg-logo="https://iptv-epg.org/images/V8M-FlqQ_KCnA3lmXFD7qhp5VLeS5B0MyoGrgAsG0naNda1ccG-mP3Zku8fQk22mabiZIytXNHSoRt_JewCGMxtS9ZIL2uk7UKIXwj6l8oflGzfaZFWR" group-title="News" group-id="news",Al Jazeera
-{{CDN}}/{{ALJAZEERA}}
-
-#EXTINF:-1 tvg-id="CNA.ph" tvg-chno="66" tvg-name="" tvg-logo="https://iptv-epg.org/images/4X8Vy1hU4G0DfJqBAEtkMQsy7AGxaTjkCvmHDvgHy-gXgAo2escssY7DnV1MMRGmfH_5Gp7Dr3LHUYktdgBqpw6I6-gMaDhRP9KDSImBl1iu" group-title="News" group-id="news",Channel News Asia
-{{CDN}}/{{CNA}}
-
-#EXTINF:-1 tvg-id="France24.ph" tvg-chno="68" tvg-name="" tvg-logo="https://iptv-epg.org/images/zXLaopnVZMxgt-DXFVbuwApAJh37TCApkXuuobMw9mhp2yy1cWa2DPI5qq5f8VzdtjTc_GXw2rrvMQUSoRq4gJwY_umvEP8Us5_p9-XMksJSn5rASBQ" group-title="News" group-id="news",France 24
-{{CDN}}/{{FRANCE24}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="902" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News" group-id="news",Euronews
-{{CDN}}/{{EURONEWS}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="75" tvg-name="" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" group-id="news",Deutsche Welle
-{{CDN}}/{{DW}}
-
-#EXTINF:-1 tvg-id="NHKWorldJapan.ph" tvg-chno="71" tvg-name="" tvg-logo="https://iptv-epg.org/images/56wnsVNkVmEo80LyXRTuOqjIfsv89v_3wGQ8DkyECjzNu5DC3-369clqJw307MyUJ5iFAoMvINhJm2hpi27sYnkLDzlFM9B4WUFsssofQeD2UsxrGd3hK5jQzQ" group-title="News" group-id="news",NHK World Japan (1080p)
-{{CDN}}/{{NHKWORLD}}
-
-#EXTINF:-1 tvg-id="NHKBS.ph" tvg-chno="247" tvg-name="" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="International" group-id="international",NHK BS (1080p)
-{{CDN}}/{{NHKBS}}
-
-#EXTINF:-1 tvg-id="ABCAustralia.ph" tvg-chno="72" tvg-name="" tvg-logo="https://iptv-epg.org/images/uj27SLezzuDWFiuePyyeb7NeiXBfMDAgbYn-d9_DqwTPRW4-FPm15-FgdG7PmTC8wZWZQKKBWfRMnfrG_ZrUkRRAFjIj4YYx2Pm1h185OxP8eF6GwHW8aN_k" group-title="News" group-id="news",ABC Australia
-{{CDN}}/{{ABCAUSTRALIA}}
-
-#EXTINF:-1 tvg-id="CGTN.ph" tvg-chno="70" tvg-name="" tvg-logo="https://iptv-epg.org/images/ftJvcH_uAcQWvptmlNvbTdujK62Gw-GcEsaBGd3reJh2Y2icAqNwM-fhvuvCUR1ajB6hF7NPJ6fdGBq1mnull9cqBZ3XuZjrYWYe044zgJIqeg" group-title="News" group-id="news",CGTN
-{{CDN}}/{{CGTN}}
-
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-chno="240" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="International" group-id="international",Arirang
-{{CDN}}/{{ARIRANG}}
-
-#EXTINF:-1 tvg-id="KBSWorld.ph" tvg-chno="903" tvg-name="" tvg-logo="https://iptv-epg.org/images/y-zS3s6rBXFNq_jKvL7N_nL-X_0fBi-hXm4DAgPW_uEYFua_AgjUZkWVI11nxlUHQa0kDkVx7mT7Rtu4uzWgPCaHnvoCZoaG4aQQ7PgJCkYna0-z7GE" group-title="News" group-id="news",KBS World
-{{CDN}}/{{KBSWORLD}}
-
-#EXTINF:-1 tvg-id="CCTV4.ph" tvg-chno="69" tvg-name="" tvg-logo="https://iptv-epg.org/images/8W-QaXFdJsddzWWekJ2pEFkpJmE8rIr3bBC7mr3x3l9g_9XEAmN8TmlcuBUvXcBoKFKpAc_HhcQlzQmOCS4bXVr9aDueZS0dvqNogaD-L26TzGg" group-title="News" group-id="news",CCTV 4
-{{CDN}}/{{CCTV4}}
-
-#EXTINF:-1 tvg-id="TV5Monde.ph" tvg-chno="241" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="International" group-id="international",TV5Monde
-{{CDN}}/{{TV5MONDE}}
+#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-name="" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Free TV" group-id="freetv",UNTV
+{{CDN}}/{{UNTV}}
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-chno="41" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Free TV" group-id="freetv",One Sports
 {{CDN}}/{{ONESPORTS}}
 
-#EXTINF:-1 tvg-id="PremierSports.ph" tvg-chno="168" tvg-name="" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" group-id="sports",Premier Sports (1080p)
-{{CDN}}/{{PREMIERSPORTS}}
+#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Free TV" group-id="freetv",Teleradyo
+{{CDN}}/{{TELERADYO}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="170" tvg-name="" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports" group-id="sports",Premier Football (1080p)
-{{CDN}}/{{PREMIERFOOTBALL}}
+#EXTINF:-1 tvg-id="" tvg-chno="48" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
+{{CDN}}/{{INCTV}}
 
-#EXTINF:-1 tvg-id="TAPsports.ph" tvg-chno="166" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
-{{CDN}}/{{TAPSPORTS}}
+#EXTINF:-1 tvg-id="" tvg-chno="61" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC (1080p)
+{{CDN}}/{{ANC}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="167" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sport
-{{CDN}}/{{EDGESPORTS}}
+#EXTINF:-1 tvg-id="" tvg-chno="62" tvg-name="" tvg-logo="https://iptv-epg.org/images/LQo_8kLS5Q_vtpBh8lar4Zho9eP5Aux6ng3HrTPWnccMiaYnq2BBJJbaPldumVcs-0OolYO2BeIu0XLL1gN5dOvhJ-wKap_DasdPi9oC_lzZ" group-title="News" group-id="news",CNN (1080p)
+{{CDN}}/{{CNN}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="92" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
-{{CDN}}/{{CINEMAONE}}
+#EXTINF:-1 tvg-id="CNA.ph" tvg-chno="66" tvg-name="" tvg-logo="https://iptv-epg.org/images/4X8Vy1hU4G0DfJqBAEtkMQsy7AGxaTjkCvmHDvgHy-gXgAo2escssY7DnV1MMRGmfH_5Gp7Dr3LHUYktdgBqpw6I6-gMaDhRP9KDSImBl1iu" group-title="News" group-id="news",Channel News Asia
+{{CDN}}/{{CNA}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="67" tvg-name="" tvg-logo="https://iptv-epg.org/images/V8M-FlqQ_KCnA3lmXFD7qhp5VLeS5B0MyoGrgAsG0naNda1ccG-mP3Zku8fQk22mabiZIytXNHSoRt_JewCGMxtS9ZIL2uk7UKIXwj6l8oflGzfaZFWR" group-title="News" group-id="news",Al Jazeera
+{{CDN}}/{{ALJAZEERA}}
+
+#EXTINF:-1 tvg-id="France24.ph" tvg-chno="68" tvg-name="" tvg-logo="https://iptv-epg.org/images/zXLaopnVZMxgt-DXFVbuwApAJh37TCApkXuuobMw9mhp2yy1cWa2DPI5qq5f8VzdtjTc_GXw2rrvMQUSoRq4gJwY_umvEP8Us5_p9-XMksJSn5rASBQ" group-title="News" group-id="news",France 24
+{{CDN}}/{{FRANCE24}}
+
+#EXTINF:-1 tvg-id="CCTV4.ph" tvg-chno="69" tvg-name="" tvg-logo="https://iptv-epg.org/images/8W-QaXFdJsddzWWekJ2pEFkpJmE8rIr3bBC7mr3x3l9g_9XEAmN8TmlcuBUvXcBoKFKpAc_HhcQlzQmOCS4bXVr9aDueZS0dvqNogaD-L26TzGg" group-title="News" group-id="news",CCTV 4
+{{CDN}}/{{CCTV4}}
+
+#EXTINF:-1 tvg-id="CGTN.ph" tvg-chno="70" tvg-name="" tvg-logo="https://iptv-epg.org/images/ftJvcH_uAcQWvptmlNvbTdujK62Gw-GcEsaBGd3reJh2Y2icAqNwM-fhvuvCUR1ajB6hF7NPJ6fdGBq1mnull9cqBZ3XuZjrYWYe044zgJIqeg" group-title="News" group-id="news",CGTN
+{{CDN}}/{{CGTN}}
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.ph" tvg-chno="71" tvg-name="" tvg-logo="https://iptv-epg.org/images/56wnsVNkVmEo80LyXRTuOqjIfsv89v_3wGQ8DkyECjzNu5DC3-369clqJw307MyUJ5iFAoMvINhJm2hpi27sYnkLDzlFM9B4WUFsssofQeD2UsxrGd3hK5jQzQ" group-title="News" group-id="news",NHK World Japan (1080p)
+{{CDN}}/{{NHKWORLD}}
+
+#EXTINF:-1 tvg-id="ABCAustralia.ph" tvg-chno="72" tvg-name="" tvg-logo="https://iptv-epg.org/images/uj27SLezzuDWFiuePyyeb7NeiXBfMDAgbYn-d9_DqwTPRW4-FPm15-FgdG7PmTC8wZWZQKKBWfRMnfrG_ZrUkRRAFjIj4YYx2Pm1h185OxP8eF6GwHW8aN_k" group-title="News" group-id="news",ABC Australia
+{{CDN}}/{{ABCAUSTRALIA}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="73" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Al-Saudia_TV_Logo_2018.png/250px-Al-Saudia_TV_Logo_2018.png" group-title="News" group-id="news",Saudi TV
+{{CDN}}/{{SAUDI}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="75" tvg-name="" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" group-id="news",Deutsche Welle
+{{CDN}}/{{DW}}
 
 #EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-chno="91" tvg-name="" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="Movies" group-id="movies",PBO
 {{CDN}}/{{PBO}}
 
-#EXTINF:-1 tvg-id="TagalogMovieChannel_TMC.ph" tvg-chno="95" tvg-name="" tvg-logo="https://iptv-epg.org/images/em01P0Wgd2tIAqlN9KLpfBguF7LL_PkeEJc0n_CHytiwm3XD-j-8bQxRS0Vo0X-YxHKLqcy7AHPir_p9CeuPVXMnQJOjPamYYg38AIn2X5oTpHYk5ywHZvC3VpQN1g9NR1wDlHM" group-title="Movies" group-id="movies",TMC
-{{CDN}}/{{TMC}}
+#EXTINF:-1 tvg-id="" tvg-chno="92" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
+{{CDN}}/{{CINEMAONE}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="93" tvg-name="" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies" group-id="movies",Cinemo!
+{{CDN}}/{{CINEMO}}
 
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-chno="94" tvg-name="" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="Movies" group-id="movies",Viva Cinema
 {{CDN}}/{{VIVACINEMA}}
 
-#EXTINF:-1 tvg-id="CCM.ph" tvg-chno="105" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" group-id="movies",Celestial Classic Movies
-{{CDN}}/{{CCM}}
-
-#EXTINF:-1 tvg-id="Thrill.ph" tvg-chno="103" tvg-name="" tvg-logo="https://iptv-epg.org/images/ILfOHZDHHpiwyyWzCCdm7gnvc8hJV7jbQzA8IEeX6fhbG-re5vqfbWF8DBkD3qVMoOi4sv7jbJei8JvXtkFXboLK44Tg5J1W5SgwUvt0h7Qblh3L" group-title="Movies" group-id="movies",Thrill
-{{CDN}}/{{THRILL}}
+#EXTINF:-1 tvg-id="TagalogMovieChannel_TMC.ph" tvg-chno="95" tvg-name="" tvg-logo="https://iptv-epg.org/images/em01P0Wgd2tIAqlN9KLpfBguF7LL_PkeEJc0n_CHytiwm3XD-j-8bQxRS0Vo0X-YxHKLqcy7AHPir_p9CeuPVXMnQJOjPamYYg38AIn2X5oTpHYk5ywHZvC3VpQN1g9NR1wDlHM" group-title="Movies" group-id="movies",TMC
+{{CDN}}/{{TMC}}
 
 #EXTINF:-1 tvg-id="TAPMovies.ph" tvg-chno="98" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="Movies" group-id="movies",Tap Movies
 {{CDN}}/{{TAPMOVIES}}
@@ -146,47 +119,53 @@
 #EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-chno="99" tvg-name="" tvg-logo="https://tapdmv.com/content/images/size/w1000/2024/10/TAP-ACTION-FLIX-ORANGE-HIGH-RES.png" group-title="Movies" group-id="movies",Tap Action Flix
 {{CDN}}/{{TAPACTIONFLIX}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Free TV" group-id="freetv",SolarFlix
-{{CDN}}/{{SOLARFLIX}}
+#EXTINF:-1 tvg-id="" tvg-chno="102" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/wxN8VJNVM9LQndxhD3BXf__gVPlPjAK6Z_EN5_LRdZrELZJPoNALJIPG-186wlB5oRqSOsHDE083UckrSBMOh4n_Kxi_nZm1Ty4UvjAwhCTbUPXSI6vOJA" group-title="Movies" group-id="movies",Lotus Macau (1080p)
+{{CDN}}/{{LOTUSMACAU}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="93" tvg-name="" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies" group-id="movies",Cinemo!
-{{CDN}}/{{CINEMO}}
+#EXTINF:-1 tvg-id="Thrill.ph" tvg-chno="103" tvg-name="" tvg-logo="https://iptv-epg.org/images/ILfOHZDHHpiwyyWzCCdm7gnvc8hJV7jbQzA8IEeX6fhbG-re5vqfbWF8DBkD3qVMoOi4sv7jbJei8JvXtkFXboLK44Tg5J1W5SgwUvt0h7Qblh3L" group-title="Movies" group-id="movies",Thrill
+{{CDN}}/{{THRILL}}
 
-#EXTINF:-1 tvg-id="AXN.ph" tvg-chno="904" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Entertainment" group-id="entertainment",AXN
-{{CDN}}/{{AXN}}
-
-#EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-chno="905" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
-{{CDN}}/{{ROCKENTERTAINMENT}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Music" group-id="music",MYX
-{{CDN}}/{{MYX}}
+#EXTINF:-1 tvg-id="CCM.ph" tvg-chno="105" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" group-id="movies",Celestial Classic Movies
+{{CDN}}/{{CCM}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://img.mytfc.com/wp-content/uploads/2025/09/08211049/channels-jeepney-tv_footer_400pxh.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
-#EXTINF:-1 tvg-id="TAPTV.ph" tvg-chno="124" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
-{{CDN}}/{{TAPTV}}
-
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="Entertainment" group-id="entertainment",Tap Edge
 {{CDN}}/{{TAPEDGE}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="193" tvg-name="" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Lifestyle" group-id="lifestyle",Vegas Life TV (1080p)
-{{CDN}}/{{VEGASLIFETV}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="192" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Lifestyle" group-id="lifestyle",FilAmTV (1080p)
-{{CDN}}/{{FILAMTV}}
-
-#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-chno="32" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Free TV" group-id="freetv",Knowledge Channel
-{{CDN}}/{{KNOWLEDGE}}
+#EXTINF:-1 tvg-id="TAPTV.ph" tvg-chno="124" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
+{{CDN}}/{{TAPTV}}
 
 #EXTINF:-1 tvg-id="NickJr.ph" tvg-chno="153" tvg-name="" tvg-logo="https://iptv-epg.org/images/8Ljsj9Gpq6cwzrCKrskp8lwZIWP2APf9UikmBt_U7R1PQhp9bMHHvdY1EtYluQKb6prZvUjHwhVwEuvaFhlvpQqStHOCbMrmmml3_YApLVWFSYPW" group-title="Kids" group-id="kids",Nick Jr. (1080p)
 {{CDN}}/{{NICKJR}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="48" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
-{{CDN}}/{{INCTV}}
+#EXTINF:-1 tvg-id="TAPsports.ph" tvg-chno="166" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
+{{CDN}}/{{TAPSPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious" group-id="religious",EWTN
-{{CDN}}/{{EWTN}}
+#EXTINF:-1 tvg-id="" tvg-chno="167" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sport
+{{CDN}}/{{EDGESPORTS}}
+
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-chno="168" tvg-name="" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" group-id="sports",Premier Sports (1080p)
+{{CDN}}/{{PREMIERSPORTS}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="170" tvg-name="" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports" group-id="sports",Premier Football (1080p)
+{{CDN}}/{{PREMIERFOOTBALL}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="186" tvg-name="" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="Lifestyle" group-id="lifestyle",MindaNow (720p)
+{{CDN}}/{{MINDANOW}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="192" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Lifestyle" group-id="lifestyle",FilAmTV (1080p)
+{{CDN}}/{{FILAMTV}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="193" tvg-name="" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Lifestyle" group-id="lifestyle",Vegas Life TV (1080p)
+{{CDN}}/{{VEGASLIFETV}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Music" group-id="music",MYX
+{{CDN}}/{{MYX}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="" tvg-logo="https://i.imgur.com/Pg2jrLe.png" group-title="Music" group-id="music",Rock of Manila TV
+{{CDN}}/{{ROCKMNL}}
 
 #EXTINF:-1 tvg-id="TVMaria.ph" tvg-chno="221" tvg-name="" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="Religious" group-id="religious",TV Maria
 {{CDN}}/{{TVMARIA}}
@@ -194,35 +173,56 @@
 #EXTINF:-1 tvg-id="" tvg-chno="222" tvg-name="" tvg-logo="https://i.imgur.com/bsjhl6L.png" group-title="Religious" group-id="religious",Light TV
 {{CDN}}/{{LIGHTTV}}
 
+#EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News Channel
+{{CDN}}/{{SMNINEWS}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious" group-id="religious",EWTN
+{{CDN}}/{{EWTN}}
+
 #EXTINF:-1 tvg-id="" tvg-chno="227" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",TBN Asia
 {{CDN}}/{{TBN}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="240" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="International" group-id="international",Arirang
+{{CDN}}/{{ARIRANG}}
+
+#EXTINF:-1 tvg-id="TV5Monde.ph" tvg-chno="241" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="International" group-id="international",TV5Monde
+{{CDN}}/{{TV5MONDE}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="242" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/4AX6UX1L8zSPQurlAcoL-idsK6S8NKq8UJHBELYu4-l9OEtMkulBgkVa88b84xr5145tR2i1-z1DDNxRapQMPloFkLm6NplsCn4pfW4" group-title="International" group-id="international",TVE
 {{CDN}}/{{TVE}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="15" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Free TV" group-id="freetv",Kapamilya Channel (1080)
-{{CDN}}/{{KAPAMILYA}}
+#EXTINF:-1 tvg-id="" tvg-chno="243" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="International" group-id="international",Phoenix Chinese Channel
+{{CDN}}/{{PHOENIX}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="102" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/wxN8VJNVM9LQndxhD3BXf__gVPlPjAK6Z_EN5_LRdZrELZJPoNALJIPG-186wlB5oRqSOsHDE083UckrSBMOh4n_Kxi_nZm1Ty4UvjAwhCTbUPXSI6vOJA" group-title="Movies" group-id="movies",Lotus Macau (1080)
-{{CDN}}/{{LOTUSMACAU}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="29" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/DZRJ-DTV_2019_logo.png/250px-DZRJ-DTV_2019_logo.png" group-title="Free TV" group-id="freetv",RJTV
-{{CDN}}/{{RJTV29}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="73" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Al-Saudia_TV_Logo_2018.png/250px-Al-Saudia_TV_Logo_2018.png" group-title="News" group-id="news",Saudi TV
-{{CDN}}/{{SAUDI}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News Channel
-{{CDN}}/{{SMNINEWS}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
-{{CDN}}/{{SOLARSPORTS}}
-
-#EXTINF:-1 tvg-id="" tvg-chno="245" tvg-name="" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="International" group-id="international",BS Fuji
+#EXTINF:-1 tvg-id="" tvg-chno="245" tvg-name="" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="International" group-id="international",BS Fuji (1080p)
 {{CDN}}/{{FUJI}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="246" tvg-name="" tvg-logo="https://i.imgur.com/ZElxkCs.png" group-title="International" group-id="international",Star Channel 1
+{{CDN}}/{{STARCHANNEL1}}
+
+#EXTINF:-1 tvg-id="NHKBS.ph" tvg-chno="247" tvg-name="" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="International" group-id="international",NHK BS (1080p)
+{{CDN}}/{{NHKBS}}
+
+#EXTINF:-1 tvg-id="Bloomberg.ph" tvg-chno="900" tvg-name="" tvg-logo="https://iptv-epg.org/images/Sn3BzK0ePkKJDVZy2KTuJ7RO7gHfiO8q8OlSc-KyTdSm7PzrKHG6V7MJ29oncFPwLgkxcZ21AtXEv7j32pJHZfjLuiuJ50c8GQXgMFP_aMQMJdmWJxPe" group-title="News" group-id="news",Bloomberg
+{{CDN}}/{{BLOOMBERG}}
+
+#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-chno="901" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Abante_masthead.svg.png/revision/latest/scale-to-width-down/300?cb=20241201092744" group-title="News" group-id="news",Abante TV (1080p)
+{{CDN}}/{{ABANTE}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="902" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News" group-id="news",Euronews
+{{CDN}}/{{EURONEWS}}
+
+#EXTINF:-1 tvg-id="KBSWorld.ph" tvg-chno="903" tvg-name="" tvg-logo="https://iptv-epg.org/images/y-zS3s6rBXFNq_jKvL7N_nL-X_0fBi-hXm4DAgPW_uEYFua_AgjUZkWVI11nxlUHQa0kDkVx7mT7Rtu4uzWgPCaHnvoCZoaG4aQQ7PgJCkYna0-z7GE" group-title="News" group-id="news",KBS World
+{{CDN}}/{{KBSWORLD}}
+
+#EXTINF:-1 tvg-id="AXN.ph" tvg-chno="904" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Entertainment" group-id="entertainment",AXN
+{{CDN}}/{{AXN}}
+
+#EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-chno="905" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
+{{CDN}}/{{ROCKENTERTAINMENT}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="906" tvg-name="" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="Religious" group-id="religious",Oras ng Himala
 {{CDN}}/{{ORASNGHIMALA}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="907" tvg-name="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News" group-id="news",USA Today
+#EXTINF:-1 tvg-id="" tvg-chno="907" tvg-name="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News" group-id="news",USA Today (1080p)
 {{CDN}}/{{USATODAY}}
