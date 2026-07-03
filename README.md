@@ -37,7 +37,7 @@ I do not host any of the streams listed here. All streams are sourced from third
 
 # Donations
 
-If you found this tool useful and want to support its development, donate Bitcoin ora mismo!:
+If you found this playlist useful and want to support its development, donate Bitcoin ora mismo!:
 
 `bc1ql7lhwl6cunvzsl6t2fs6hykyjll8ua8r7xe4av`
 
