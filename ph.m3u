@@ -119,7 +119,7 @@
 #EXTINF:-1 tvg-id="TAPsports.ph" tvg-chno="166" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
 {{CDN}}/{{TAPSPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="167" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sports
+#EXTINF:-1 tvg-id="" tvg-chno="167" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sport
 {{CDN}}/{{EDGESPORTS}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="92" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
@@ -217,3 +217,12 @@
 
 #EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
 {{CDN}}/{{SOLARSPORTS}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="245" tvg-name="" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="International" group-id="international",BS Fuji
+{{CDN}}/{{FUJI}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="906" tvg-name="" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="Religious" group-id="religious",Oras ng Himala
+{{CDN}}/{{ORASNGHIMALA}}
+
+#EXTINF:-1 tvg-id="" tvg-chno="907" tvg-name="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News" group-id="news",USA Today
+{{CDN}}/{{USATODAY}}

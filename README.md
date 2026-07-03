@@ -13,15 +13,15 @@ https://mxggot.github.io/PMP-IPTV/ph.m3u
 | Group | Channels |
 |---|---|
 | Free TV | GMA, TV5, A2Z, ALLTV, PTV, IBC 13, GTV, RPTV, UNTV, Net 25, Aliw, Teleradyo, One Sports, DZRH News, Bilyonaryo, SolarFlix, Knowledge Channel, INC TV, Kapamilya Channel, RJTV, Solar Sports |
-| News | CNN International, ANC, Bloomberg, Abante TV, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World Japan, ABC Australia, CGTN, KBS World, CCTV 4, Saudi TV, SMNI News Channel |
+| News | CNN International, ANC, Bloomberg, Abante TV, Al Jazeera, CNA, France 24, Euronews, Deutsche Welle, NHK World Japan, ABC Australia, CGTN, KBS World, CCTV 4, Saudi TV, SMNI News Channel, USA Today |
 | Sports | Premier Sports, Premier Football, Tap Sports, Edge Sports |
 | Movies | Cinema One, PBO, TMC, Viva Cinema, Celestial Classic Movies, Thrill, Tap Movies, Tap Action Flix, Cinemo!, Lotus Macau |
 | Entertainment | AXN, Rock Entertainment, Jeepney TV, Tap TV, Tap Edge |
 | Music | Rock of Manila TV, MYX |
 | Lifestyle | MindaNow, Vegas Life TV, FilAmTV |
 | Kids | Nick Jr. |
-| Religious | EWTN, TV Maria, Light TV, Trinity Broadcasting Network |
-| International | Star Channel 1, Phoenix Chinese Channel, NHK BS1, Arirang, TV5Monde, TVE |
+| Religious | EWTN, TV Maria, Light TV, Trinity Broadcasting Network, Oras ng Himala |
+| International | Star Channel 1, Phoenix Chinese Channel, NHK BS1, Arirang, TV5Monde, TVE, BS Fuji |
 
 ## Note(s)
 Most channels are in **480p**. Channels labeled 720p/1080p are exceptions.
