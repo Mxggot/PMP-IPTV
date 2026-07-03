@@ -29,7 +29,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
 {{CDN}}/{{SOLARSPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/07/28182423/solarflix-logo-300x300.png" group-title="Free TV" group-id="freetv",SolarFlix
+#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SolarFlix_(2022)_logo.png/960px-SolarFlix_(2022)_logo.png" group-title="Free TV" group-id="freetv",SolarFlix
 {{CDN}}/{{SOLARFLIX}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="23" tvg-name="" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="Free TV" group-id="freetv",Aliw
@@ -59,7 +59,7 @@
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-chno="41" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Free TV" group-id="freetv",One Sports
 {{CDN}}/{{ONESPORTS}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Free TV" group-id="freetv",Teleradyo
+#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0d/DZMM_TeleRadyo_Logo_2025.png/revision/latest/scale-to-width-down/300" group-title="Free TV" group-id="freetv",Teleradyo
 {{CDN}}/{{TELERADYO}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="48" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
@@ -98,7 +98,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="75" tvg-name="" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" group-id="news",Deutsche Welle
 {{CDN}}/{{DW}}
 
-#EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-chno="91" tvg-name="" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="Movies" group-id="movies",PBO
+#EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-chno="91" tvg-name="" tvg-logo="https://i.imgur.com/iNKge45.png" group-title="Movies" group-id="movies",PBO
 {{CDN}}/{{PBO}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="92" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
@@ -128,7 +128,7 @@
 #EXTINF:-1 tvg-id="CCM.ph" tvg-chno="105" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" group-id="movies",Celestial Classic Movies
 {{CDN}}/{{CCM}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://img.mytfc.com/wp-content/uploads/2025/09/08211049/channels-jeepney-tv_footer_400pxh.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://cdn.imgbin.com/14/12/19/imgbin-jeepney-tv-philippines-the-filipino-channel-television-abs-cbn-jeepney-PnY1SPLjgVrNdfqMxZv3Lvn2Z.jpg" group-title="Entertainment" group-id="entertainment",Jeepney TV
 {{CDN}}/{{JEEPNEYTV}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="Entertainment" group-id="entertainment",Tap Edge
@@ -221,7 +221,7 @@
 #EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-chno="905" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
 {{CDN}}/{{ROCKENTERTAINMENT}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="906" tvg-name="" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="Religious" group-id="religious",Oras ng Himala
+#EXTINF:-1 tvg-id="" tvg-chno="906" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/ONHChannel-33721069fca02407e5b386b5ca57c8fe808d836b6692f7c2108e36e476b9da68.png" group-title="Religious" group-id="religious",Oras ng Himala
 {{CDN}}/{{ORASNGHIMALA}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="907" tvg-name="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News" group-id="news",USA Today (1080p)
