@@ -4,10 +4,7 @@
 Local Pinoy IPTV playlist for Filipino fellas out there.
 
 ## How to use
-Add this link to your IPTV player (VLC, TiviMate, Kodi, etc.):
-```
-https://mxggot.github.io/PMP-IPTV/ph.m3u
-```
+Email me at `mxggot+pmp@proton.me` to get an access.
 
 ## Channels (for now)
 | Group | Channels |
