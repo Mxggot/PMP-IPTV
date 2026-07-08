@@ -155,6 +155,9 @@
 #EXTINF:-1 tvg-id="" tvg-chno="186" tvg-name="" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="Lifestyle" group-id="lifestyle",MindaNow (720p)
 {{CDN}}/{{MINDANOW}}
 
+#EXTINF:-1 tvg-id="" tvg-chno="187" tvg-name="" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Lifestyle" group-id="lifestyle",Living Asia Channel (1080p)
+{{CDN}}/{{LAC}}
+
 #EXTINF:-1 tvg-id="" tvg-chno="192" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Lifestyle" group-id="lifestyle",FilAmTV (1080p)
 {{CDN}}/{{FILAMTV}}
 

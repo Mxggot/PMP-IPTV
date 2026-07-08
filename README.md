@@ -18,7 +18,7 @@ https://mxggot.github.io/PMP-IPTV/ph.m3u
 | Movies | Cinema One, PBO, TMC, Viva Cinema, Celestial Classic Movies, Thrill, Tap Movies, Tap Action Flix, Cinemo!, Lotus Macau |
 | Entertainment | AXN, Rock Entertainment, Jeepney TV, Tap TV, Tap Edge |
 | Music | Rock of Manila TV, MYX |
-| Lifestyle | MindaNow, Vegas Life TV, FilAmTV |
+| Lifestyle | MindaNow, Vegas Life TV, FilAmTV, Living Asia Channel |
 | Kids | Nick Jr. |
 | Religious | EWTN, TV Maria, Light TV, Trinity Broadcasting Network, Oras ng Himala |
 | International | Star Channel 1, Phoenix Chinese Channel, NHK BS1, Arirang, TV5Monde, TVE, BS Fuji |
