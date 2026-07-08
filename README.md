@@ -27,7 +27,7 @@ Most channels are in **480p**. Channels labeled 720p/1080p are exceptions.
 
 - **1080p** - 18 channels
 - **720p** - 1 channel
-- **480p** - 58 channels
+- **480p** - 57 channels
 
 ## Disclaimer
 I do not host any of the streams listed here. All streams are sourced from third-party providers and are not affiliated with me in any way. All streams are all publicly accessible online, I have merely compiled them here.
