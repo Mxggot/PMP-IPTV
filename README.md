@@ -28,7 +28,7 @@ Most channels are in **480p**. Channels labeled 720p/1080p are exceptions.
 
 #### Stream Quality
 
-- **1080p** - 17 channels
+- **1080p** - 18 channels
 - **720p** - 1 channel
 - **480p** - 58 channels
 
