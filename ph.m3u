@@ -119,7 +119,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-name="" tvg-logo="https://tapdmv.com/content/images/size/w1000/2024/10/TAP-ACTION-FLIX-ORANGE-HIGH-RES.png" group-title="Movies" group-id="movies",Tap Action Flix
 {{CDN}}/{{TAPACTIONFLIX}}
 
-#EXTINF:-1 tvg-id="LotusMacau.ph" tvg-chno="102" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/wxN8VJNVM9LQndxhD3BXf__gVPlPjAK6Z_EN5_LRdZrELZJPoNALJIPG-186wlB5oRqSOsHDE083UckrSBMOh4n_Kxi_nZm1Ty4UvjAwhCTbUPXSI6vOJA" group-title="Movies" group-id="movies",Lotus Macau (1080p)
+#EXTINF:-1 tvg-id="LotusMacau.ph" tvg-chno="102" tvg-name="" tvg-logo="https://iptv-epg.org/images/wxN8VJNVM9LQndxhD3BXf__gVPlPjAK6Z_EN5_LRdZrELZJPoNALJIPG-186wlB5oRqSOsHDE083UckrSBMOh4n_Kxi_nZm1Ty4UvjAwhCTbUPXSI6vOJA" group-title="Movies" group-id="movies",Lotus Macau (1080p)
 {{CDN}}/{{LOTUSMACAU}}
 
 #EXTINF:-1 tvg-id="Thrill.ph" tvg-chno="103" tvg-name="" tvg-logo="https://iptv-epg.org/images/ILfOHZDHHpiwyyWzCCdm7gnvc8hJV7jbQzA8IEeX6fhbG-re5vqfbWF8DBkD3qVMoOi4sv7jbJei8JvXtkFXboLK44Tg5J1W5SgwUvt0h7Qblh3L" group-title="Movies" group-id="movies",Thrill
@@ -182,7 +182,7 @@
 #EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/250px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" group-id="religious",EWTN
 {{CDN}}/{{EWTN}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="227" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",TBN Asia
+#EXTINF:-1 tvg-id="" tvg-chno="227" tvg-name="" tvg-logo="https://iptv-epg.org/images/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",TBN Asia
 {{CDN}}/{{TBN}}
 
 #EXTINF:-1 tvg-id="Arirang.ph" tvg-chno="240" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="International" group-id="international",Arirang
@@ -191,7 +191,7 @@
 #EXTINF:-1 tvg-id="TV5Monde.ph" tvg-chno="241" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="International" group-id="international",TV5Monde
 {{CDN}}/{{TV5MONDE}}
 
-#EXTINF:-1 tvg-id="" tvg-chno="242" tvg-name="" tvg-logo="https://iptv-epg.org/images/02e74f10e0327ad868d138f2b4fdd6f0/4AX6UX1L8zSPQurlAcoL-idsK6S8NKq8UJHBELYu4-l9OEtMkulBgkVa88b84xr5145tR2i1-z1DDNxRapQMPloFkLm6NplsCn4pfW4" group-title="International" group-id="international",TVE
+#EXTINF:-1 tvg-id="" tvg-chno="242" tvg-name="" tvg-logo="https://iptv-epg.org/images/4AX6UX1L8zSPQurlAcoL-idsK6S8NKq8UJHBELYu4-l9OEtMkulBgkVa88b84xr5145tR2i1-z1DDNxRapQMPloFkLm6NplsCn4pfW4" group-title="International" group-id="international",TVE
 {{CDN}}/{{TVE}}
 
 #EXTINF:-1 tvg-id="" tvg-chno="243" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="International" group-id="international",Phoenix Chinese Channel
