@@ -18,7 +18,7 @@ Email me at `mxggot+pmp@proton.me` to get an access.
 | Lifestyle | MindaNow, Vegas Life TV, FilAmTV, Living Asia Channel |
 | Kids | Nick Jr. |
 | Religious | EWTN, TV Maria, Light TV, Trinity Broadcasting Network, Oras ng Himala |
-| International | Star Channel 1, Phoenix Chinese Channel, NHK BS1, Arirang, TV5Monde, TVE, BS Fuji |
+| International | Star Channel 1, Phoenix Chinese Channel, NHK BS, Arirang, TV5Monde, TVE, BS Fuji |
 
 ## Note(s)
 Most channels are in **480p**. Channels labeled 720p/1080p are exceptions.
