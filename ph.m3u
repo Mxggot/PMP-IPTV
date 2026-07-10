@@ -1,0 +1,231 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ph(dot)xml.gz"
+
+## majority of the streams/channels are broadcasted in 480p, the labeled ones are obviously an exception.
+
+#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Free TV" group-id="freetv",ALLTV
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-chno="5" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" group-title="Free TV" group-id="freetv",TV5
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="7" tvg-name="" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="Free TV" group-id="freetv",GMA
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-chno="9" tvg-name="" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="Free TV" group-id="freetv",RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-chno="11" tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Free TV" group-id="freetv",A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-chno="13" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2025/10/26200551/ibc13-logo-300x300.png" group-title="Free TV" group-id="freetv",IBC 13
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-chno="14" tvg-name="" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Free TV" group-id="freetv",PTV
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="15" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Free TV" group-id="freetv",Kapamilya Channel (1080p)
+https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="Free TV" group-id="freetv",Solar Sports
+https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SolarFlix_(2022)_logo.png/960px-SolarFlix_(2022)_logo.png" group-title="Free TV" group-id="freetv",SolarFlix
+https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="23" tvg-name="" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="Free TV" group-id="freetv",Aliw
+https://streams.comclark.com/pknsd/aliw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="25" tvg-name="" tvg-logo="https://i.imgur.com/dhvihdA.png" group-title="Free TV" group-id="freetv",Net 25
+https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="26" tvg-name="" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="Free TV" group-id="freetv",DZRH News (1080p)
+https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="27" tvg-name="" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="Free TV" group-id="freetv",GTV
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="29" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/DZRJ-DTV_2019_logo.png/250px-DZRJ-DTV_2019_logo.png" group-title="Free TV" group-id="freetv",RJTV
+https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-chno="31" tvg-name="" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="Free TV" group-id="freetv",Bilyonaryo News Channel (1080p)
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-chno="32" tvg-name="" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="Free TV" group-id="freetv",Knowledge Channel
+https://streams.comclark.com/pknsd/knowledge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/250px-UNTV-Logo-2016.svg.png" group-title="Free TV" group-id="freetv",UNTV
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-chno="41" tvg-name="" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Free TV" group-id="freetv",One Sports
+https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/250px-DZMM_TeleRadyo.svg.png" group-title="Free TV" group-id="freetv",Teleradyo
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="48" tvg-name="" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Free TV" group-id="freetv",INC TV
+https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="61" tvg-name="" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News" group-id="news",ANC (1080p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN.ph" tvg-chno="62" tvg-name="" tvg-logo="https://iptv-epg.org/images/LQo_8kLS5Q_vtpBh8lar4Zho9eP5Aux6ng3HrTPWnccMiaYnq2BBJJbaPldumVcs-0OolYO2BeIu0XLL1gN5dOvhJ-wKap_DasdPi9oC_lzZ" group-title="News" group-id="news",CNN (1080p)
+https://streams.comclark.com/pknhd/cnn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.ph" tvg-chno="66" tvg-name="" tvg-logo="https://iptv-epg.org/images/4X8Vy1hU4G0DfJqBAEtkMQsy7AGxaTjkCvmHDvgHy-gXgAo2escssY7DnV1MMRGmfH_5Gp7Dr3LHUYktdgBqpw6I6-gMaDhRP9KDSImBl1iu" group-title="News" group-id="news",Channel News Asia
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.ph" tvg-chno="67" tvg-name="" tvg-logo="https://iptv-epg.org/images/V8M-FlqQ_KCnA3lmXFD7qhp5VLeS5B0MyoGrgAsG0naNda1ccG-mP3Zku8fQk22mabiZIytXNHSoRt_JewCGMxtS9ZIL2uk7UKIXwj6l8oflGzfaZFWR" group-title="News" group-id="news",Al Jazeera
+https://streams.comclark.com/pknsd/al_jazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.ph" tvg-chno="68" tvg-name="" tvg-logo="https://iptv-epg.org/images/zXLaopnVZMxgt-DXFVbuwApAJh37TCApkXuuobMw9mhp2yy1cWa2DPI5qq5f8VzdtjTc_GXw2rrvMQUSoRq4gJwY_umvEP8Us5_p9-XMksJSn5rASBQ" group-title="News" group-id="news",France 24
+https://streams.comclark.com/pknsd/france_24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4.ph" tvg-chno="69" tvg-name="" tvg-logo="https://iptv-epg.org/images/8W-QaXFdJsddzWWekJ2pEFkpJmE8rIr3bBC7mr3x3l9g_9XEAmN8TmlcuBUvXcBoKFKpAc_HhcQlzQmOCS4bXVr9aDueZS0dvqNogaD-L26TzGg" group-title="News" group-id="news",CCTV 4
+https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.ph" tvg-chno="70" tvg-name="" tvg-logo="https://iptv-epg.org/images/ftJvcH_uAcQWvptmlNvbTdujK62Gw-GcEsaBGd3reJh2Y2icAqNwM-fhvuvCUR1ajB6hF7NPJ6fdGBq1mnull9cqBZ3XuZjrYWYe044zgJIqeg" group-title="News" group-id="news",CGTN
+https://streams.comclark.com/pknsd/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.ph" tvg-chno="71" tvg-name="" tvg-logo="https://iptv-epg.org/images/56wnsVNkVmEo80LyXRTuOqjIfsv89v_3wGQ8DkyECjzNu5DC3-369clqJw307MyUJ5iFAoMvINhJm2hpi27sYnkLDzlFM9B4WUFsssofQeD2UsxrGd3hK5jQzQ" group-title="News" group-id="news",NHK World Japan (1080p)
+https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCAustralia.ph" tvg-chno="72" tvg-name="" tvg-logo="https://iptv-epg.org/images/uj27SLezzuDWFiuePyyeb7NeiXBfMDAgbYn-d9_DqwTPRW4-FPm15-FgdG7PmTC8wZWZQKKBWfRMnfrG_ZrUkRRAFjIj4YYx2Pm1h185OxP8eF6GwHW8aN_k" group-title="News" group-id="news",ABC Australia
+https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="73" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Al-Saudia_TV_Logo_2018.png/250px-Al-Saudia_TV_Logo_2018.png" group-title="News" group-id="news",Saudi TV
+https://streams.comclark.com/pknsd/saudi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="75" tvg-name="" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" group-id="news",Deutsche Welle
+https://streams.comclark.com/pknsd/deutsche_welle/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PinoyBoxOffice.ph" tvg-chno="91" tvg-name="" tvg-logo="https://i.imgur.com/iNKge45.png" group-title="Movies" group-id="movies",PBO
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="92" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="Movies" group-id="movies",Cinema One
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="93" tvg-name="" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies" group-id="movies",Cinemo!
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-chno="94" tvg-name="" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="Movies" group-id="movies",Viva Cinema
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TagalogMovieChannel_TMC.ph" tvg-chno="95" tvg-name="" tvg-logo="https://iptv-epg.org/images/em01P0Wgd2tIAqlN9KLpfBguF7LL_PkeEJc0n_CHytiwm3XD-j-8bQxRS0Vo0X-YxHKLqcy7AHPir_p9CeuPVXMnQJOjPamYYg38AIn2X5oTpHYk5ywHZvC3VpQN1g9NR1wDlHM" group-title="Movies" group-id="movies",TMC
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPMovies.ph" tvg-chno="98" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="Movies" group-id="movies",Tap Movies
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-name="" tvg-logo="https://tapdmv.com/content/images/size/w1000/2024/10/TAP-ACTION-FLIX-ORANGE-HIGH-RES.png" group-title="Movies" group-id="movies",Tap Action Flix
+https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotusMacau.ph" tvg-chno="102" tvg-name="" tvg-logo="https://iptv-epg.org/images/wxN8VJNVM9LQndxhD3BXf__gVPlPjAK6Z_EN5_LRdZrELZJPoNALJIPG-186wlB5oRqSOsHDE083UckrSBMOh4n_Kxi_nZm1Ty4UvjAwhCTbUPXSI6vOJA" group-title="Movies" group-id="movies",Lotus Macau (1080p)
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.ph" tvg-chno="103" tvg-name="" tvg-logo="https://iptv-epg.org/images/ILfOHZDHHpiwyyWzCCdm7gnvc8hJV7jbQzA8IEeX6fhbG-re5vqfbWF8DBkD3qVMoOi4sv7jbJei8JvXtkFXboLK44Tg5J1W5SgwUvt0h7Qblh3L" group-title="Movies" group-id="movies",Thrill
+https://streams.comclark.com/pknsd/thrill/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="105" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" group-id="movies",Celestial Classic Movies
+https://streams.comclark.com/pknsd/celestial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="120" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/250px-Jeepney_TV_Logo_2015.svg.png" group-title="Entertainment" group-id="entertainment",Jeepney TV
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="Entertainment" group-id="entertainment",Tap Edge
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="124" tvg-name="" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="Entertainment" group-id="entertainment",Tap TV
+https://streams.comclark.com/pknsd/taptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ph" tvg-chno="153" tvg-name="" tvg-logo="https://iptv-epg.org/images/8Ljsj9Gpq6cwzrCKrskp8lwZIWP2APf9UikmBt_U7R1PQhp9bMHHvdY1EtYluQKb6prZvUjHwhVwEuvaFhlvpQqStHOCbMrmmml3_YApLVWFSYPW" group-title="Kids" group-id="kids",Nick Jr. (1080p)
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TapSports.ph" tvg-chno="166" tvg-name="" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="Sports" group-id="sports",Tap Sports
+https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="167" tvg-name="" tvg-logo="https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw" group-title="Sports" group-id="sports",Edge Sport
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-chno="168" tvg-name="" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports" group-id="sports",Premier Sports (1080p)
+https://streams.comclark.com/pknhd/premier_sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="170" tvg-name="" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports" group-id="sports",Premier Football (1080p)
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="186" tvg-name="" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="Lifestyle" group-id="lifestyle",MindaNow (720p)
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="187" tvg-name="" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Lifestyle" group-id="lifestyle",Living Asia Channel (1080p)
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="192" tvg-name="" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="Lifestyle" group-id="lifestyle",FilAmTV (1080p)
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="193" tvg-name="" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Lifestyle" group-id="lifestyle",Vegas Life TV (1080p)
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18114113/myx-logo-300x300.png" group-title="Music" group-id="music",MYX
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="" tvg-logo="https://i.imgur.com/Pg2jrLe.png" group-title="Music" group-id="music",Rock of Manila TV
+https://streams.comclark.com/pknsd/rock_manila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-chno="221" tvg-name="" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="Religious" group-id="religious",TV Maria
+https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="222" tvg-name="" tvg-logo="https://i.imgur.com/bsjhl6L.png" group-title="Religious" group-id="religious",Light TV
+https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="223" tvg-name="" tvg-logo="https://i.imgur.com/OZA4xPq.png" group-title="News" group-id="news",SMNI News Channel
+https://streams.comclark.com/pknsd/smni_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="226" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/250px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" group-id="religious",EWTN
+https://streams.comclark.com/pknsd/ewtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="227" tvg-name="" tvg-logo="https://iptv-epg.org/images/2YfCWfzxZQpR790lcTEoDZVV7eSVyjKSFVBSSHteZOWJuUTwSJVtnPeacrZJ6AwYdFm4-uRWRIYWusNSW7Nq6X9icxztUpcdRw" group-title="Religious" group-id="religious",TBN Asia
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-chno="240" tvg-name="" tvg-logo="https://iptv-epg.org/images/03w7puDI_GvIm8ucc7jvc0jlLcWen21WtlASTpFiA2ktVYN1EBRJoccRDgoqc960Jqm7lQtUEOiuR6A9irEs9AAr0tNlFakHBgrqWA0q90q9o82NoA" group-title="International" group-id="international",Arirang
+https://streams.comclark.com/pknsd/arirang/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5Monde.ph" tvg-chno="241" tvg-name="" tvg-logo="https://iptv-epg.org/images/8J952vE0r5iyFgRwocH6NX4nK8iV7xBzb4XedXPxWaIM-n0gnQTxtASnDfxpMFYnlMWVltwyaheM5qvc3wgPehnkep-XQGDswlAEamu5eg1JS2Sh-JQ" group-title="International" group-id="international",TV5Monde
+https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="242" tvg-name="" tvg-logo="https://iptv-epg.org/images/4AX6UX1L8zSPQurlAcoL-idsK6S8NKq8UJHBELYu4-l9OEtMkulBgkVa88b84xr5145tR2i1-z1DDNxRapQMPloFkLm6NplsCn4pfW4" group-title="International" group-id="international",TVE
+https://streams.comclark.com/pknsd/tve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="243" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="International" group-id="international",Phoenix Chinese Channel
+https://streams.comclark.com/pknsd/phoenix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="245" tvg-name="" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="International" group-id="international",BS Fuji (1080p)
+https://streams.comclark.com/pknsd/fuji/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="246" tvg-name="" tvg-logo="https://i.imgur.com/ZElxkCs.png" group-title="International" group-id="international",Star Channel 1
+https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="247" tvg-name="" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="International" group-id="international",NHK BS (1080p)
+https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.ph" tvg-chno="900" tvg-name="" tvg-logo="https://iptv-epg.org/images/Sn3BzK0ePkKJDVZy2KTuJ7RO7gHfiO8q8OlSc-KyTdSm7PzrKHG6V7MJ29oncFPwLgkxcZ21AtXEv7j32pJHZfjLuiuJ50c8GQXgMFP_aMQMJdmWJxPe" group-title="News" group-id="news",Bloomberg
+https://streams.comclark.com/pknsd/bloomberg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="901" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Abante_masthead.svg.png/revision/latest/scale-to-width-down/300?cb=20241201092744" group-title="News" group-id="news",Abante TV (1080p)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="902" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News" group-id="news",Euronews
+https://streams.comclark.com/pknsd/euronews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.ph" tvg-chno="903" tvg-name="" tvg-logo="https://iptv-epg.org/images/y-zS3s6rBXFNq_jKvL7N_nL-X_0fBi-hXm4DAgPW_uEYFua_AgjUZkWVI11nxlUHQa0kDkVx7mT7Rtu4uzWgPCaHnvoCZoaG4aQQ7PgJCkYna0-z7GE" group-title="News" group-id="news",KBS World
+https://streams.comclark.com/pknsd/kbs_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ph" tvg-chno="904" tvg-name="" tvg-logo="https://iptv-epg.org/images/mrEIBxzk_vVoTFMiVWppc8od3S4e_fJQVJ3dSmPCucM1iGiOJ6iVvqt3-KMcOK6epTFefgpTqb4NB5yLGn1eFkbRnpcZ5iEybJs0UPoHbBY2" group-title="Entertainment" group-id="entertainment",AXN
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RockEntertainment.ph" tvg-chno="905" tvg-name="" tvg-logo="https://iptv-epg.org/images/CgvQ1G0-IGUsCB9vHebjsgcgAzbtN6Jhb73iiunyppSl5TphPDEUEgDTDL37mpv-mTbJ8In4cl75ypC86uOFkIg-rE5F5XAgM40R_FoUDI26y9AElUa9hoYWOAw8_7I" group-title="Entertainment" group-id="entertainment",Rock Entertainment (1080p)
+https://streams.comclark.com/pknhd/rock_entertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="906" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/ONHChannel-33721069fca02407e5b386b5ca57c8fe808d836b6692f7c2108e36e476b9da68.png" group-title="Religious" group-id="religious",Oras ng Himala
+https://streams.comclark.com/pknsd/orasnghimala/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="907" tvg-name="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News" group-id="news",USA Today (1080p)
+https://streams.comclark.com/pknsd/usatoday/playlist.m3u8
